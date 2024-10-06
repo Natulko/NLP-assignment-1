@@ -1,0 +1,2 @@
+(S (NP-SBJ (PRP They)) (VP (VB will) (NP (VB join) (NP (DT the) (NN board)))) (. .))
+(S (NP-SBJ (DT The) (NN student)) (VP (VB will) (VP (VB do) (NP (DT the) (NN work) (PP-CLR (IN on) (NNP Monday))))) (. .))
